@@ -8,4 +8,4 @@
                                        my line  = meong
 -seputar diriku
   hobiku bermain sepak bola dan juga bermain sepedah
-                                      
+-aku suka makanan traditional jawa tepatnya jawa barat
