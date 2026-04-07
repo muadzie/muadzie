@@ -29,13 +29,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=muadzie&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muadzie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
+</p>
 ---
 
 ## 🔥 GitHub Streak
