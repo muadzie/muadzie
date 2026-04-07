@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ilham Muadzie</h1>
+<h1 align="center">Hi 👋, I'm Ilham Muadz Fakhrizi</h1>
 <h3 align="center">🚀 Web Developer | UI/UX Enthusiast | Linux User</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Building+Modern+Web+Apps+with+Style;Laravel+%7C+JavaScript+%7C+Linux+%7C+UI%2FUX;Always+Learning%2C+Always+Creating..." alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ilham%20Muadzie&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" />
-</p>
-
----
 
 ## 🌌 About Me
 
@@ -38,12 +32,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/muadzie/muadzie/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation" />
-</p>
----
 
 ## 🚀 Featured Projects
 
@@ -86,6 +75,12 @@
 ---
 
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+  <img src="https://github.com/muadzie/muadzie/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation" />
 </p>
+---
+
+
+
