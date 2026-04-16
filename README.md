@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,tailwind,git,github,vscode,linux,bash,ubuntu,figma" />
-  img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+ 
 </p>
 
 ---
@@ -29,6 +29,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=muadzie&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 </p>
 
 ---
