@@ -1,28 +1,23 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ilham Muadz Fakhrizi</h1>
 
-# `ILHAM MUADZ FAKHRIZI`
+<h3 align="center">
+Full Stack Developer • Backend Engineer • Linux Enthusiast
+</h3>
 
-### FULL STACK DEVELOPER • BACKEND ENGINEER • LINUX USER
-
-<br>
-
-```bash
-> Building scalable systems
-> Writing clean and maintainable code
-> Exploring backend architecture & security
-```
-
-<br>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Backend+Architecture+%26+REST+API;Laravel+•+PHP+•+JavaScript+•+Linux;Clean+Code+and+Scalable+Systems" />
+</p>
 
 ---
 
-# `SYSTEM.INFO`
+<img align="right" alt="Developer" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
+# 👨‍💻 About Me
 
 ```yaml
 name: Ilham Muadz Fakhrizi
 role: Full Stack Developer
+
 specialization:
   - Backend Development
   - REST API
@@ -30,50 +25,50 @@ specialization:
   - System Architecture
 
 environment:
-  os: Ubuntu Linux
-  terminal: Bash
-  editor: VS Code
+  - Ubuntu Linux
+  - Bash
+  - VS Code
 
-status: Active
+currently_learning:
+  - Clean Architecture
+  - Linux Server
+  - Security Practices
+  - Database Optimization
 ```
 
----
-
-# `TECH.STACK`
-
-<div align="center">
-
-| Backend | Frontend | Database | Environment |
-|----------|-----------|-----------|--------------|
-| Laravel | JavaScript | MySQL | Linux |
-| PHP | HTML5 | Database Design | Bash |
-| REST API | CSS3 | Query Optimization | Git |
-| Node.js | TailwindCSS | Authentication | GitHub |
-
-</div>
+<br>
 
 ---
 
-# `CURRENT.FOCUS`
+# ⚡ Tech Stack
 
-```txt
-[✓] Backend Architecture
-[✓] REST API Development
-[✓] Authentication & Security
-[✓] Linux Server Administration
-[✓] Database Optimization
-[✓] Clean Code Principles
-```
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,mysql,html,css,tailwind,bootstrap,git,github,linux,bash,vscode,figma&perline=8"/>
+</p>
 
 ---
 
-# `FEATURED.PROJECTS`
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muadzie&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ## 📊 Monitoring PKL System
 
 ```txt
-Internship monitoring platform with dashboard,
-reporting system, and role management features.
+Internship monitoring and management platform
+built using Laravel and MySQL.
 ```
 
 ---
@@ -81,8 +76,8 @@ reporting system, and role management features.
 ## 🧾 Digital Certificate Blockchain
 
 ```txt
-Blockchain-based digital certificate
-verification and validation system.
+Blockchain-based certificate verification
+system for academic environments.
 ```
 
 ---
@@ -90,8 +85,8 @@ verification and validation system.
 ## 👟 Laundry Management System
 
 ```txt
-Responsive management system with
-transaction and monitoring dashboard.
+Responsive laundry management application
+with modern dashboard interface.
 ```
 
 ---
@@ -100,58 +95,67 @@ transaction and monitoring dashboard.
 
 ```txt
 Modern responsive landing page
-focused on clean UI and user experience.
+focused on clean UI/UX experience.
 ```
 
 ---
 
-# `DEVELOPER.MODE`
-
-```python
-class Developer:
-
-    def __init__(self):
-        self.name = "Ilham"
-        self.mode = "active"
-
-    def execute(self):
-        while True:
-            self.learn()
-            self.build()
-            self.optimize()
-            self.repeat()
-```
-
----
-
-# `TERMINAL.STATUS`
+# 🧠 Current Focus
 
 ```bash
-[ SYSTEM ] Ubuntu Linux Running
-[ SERVER ] Stable
-[ API    ] Connected
-[ STATUS ] Developer Mode Enabled
-[ TARGET ] Build Better Systems
+[+] Backend Architecture
+[+] REST API Development
+[+] Authentication & Security
+[+] Linux Administration
+[+] Database Optimization
+[+] Clean Code Practices
 ```
 
 ---
 
-# `CONNECT`
+# ⚙️ Developer Environment
 
-```txt
-GitHub    : github.com/muadzie
-Instagram : instagram.com/USERNAME_INSTAGRAM
-Email     : email@example.com
+```yaml
+OS: Ubuntu Linux
+Editor: Visual Studio Code
+Terminal: Bash
+Framework: Laravel
+Database: MySQL
+Version Control: Git & GitHub
 ```
+
+---
+
+# 🌐 Connect
+
+<p align="left">
+  <a href="https://github.com/muadzie">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/USERNAME_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:email@example.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muadzie/muadzie/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
 <div align="center">
 
 ```txt
-"Build clean systems.
-Think scalable.
-Keep evolving."
+"Build scalable systems with clean architecture."
 ```
 
 </div>
