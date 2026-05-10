@@ -44,10 +44,6 @@ currently_learning:
 <td width="40%" align="center">
 
 <img width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
-
-</td>
-<img width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
-</td>
 </tr>
 </table>
 
