@@ -39,9 +39,9 @@ currently_learning:
   - Database Optimization
 ```
 
-</td>
+</td >
 
-<td>
+<td width="40%" align="center">
 
 <img width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
