@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilham Muadz Fakhrizi</h1>
 
 <h3 align="center">
-Full Stack Developer • Backend Engineer • Linux Enthusiast
+  Full Stack Developer • Backend Engineer • Linux Enthusiast
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ Full Stack Developer • Backend Engineer • Linux Enthusiast
 
 <img align="right" alt="Developer" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Ilham Muadz Fakhrizi
@@ -20,35 +20,35 @@ role: Full Stack Developer
 
 specialization:
   - Backend Development
-  - REST API
+  - REST API Development
   - Dashboard Systems
   - System Architecture
 
 environment:
   - Ubuntu Linux
   - Bash
-  - VS Code
+  - Visual Studio Code
 
 currently_learning:
   - Clean Architecture
-  - Linux Server
+  - Linux Server Administration
   - Security Practices
   - Database Optimization
 ```
 
-<br>
+<br clear="right"/>
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,mysql,html,css,tailwind,bootstrap,git,github,linux,bash,vscode,figma&perline=8"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -62,45 +62,39 @@ currently_learning:
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 📊 Monitoring PKL System
+### 📊 Monitoring PKL System
 
 ```txt
 Internship monitoring and management platform
 built using Laravel and MySQL.
 ```
 
----
-
-## 🧾 Digital Certificate Blockchain
+### 🧾 Digital Certificate Blockchain
 
 ```txt
 Blockchain-based certificate verification
 system for academic environments.
 ```
 
----
-
-## 👟 Laundry Management System
+### 👟 Laundry Management System
 
 ```txt
 Responsive laundry management application
 with modern dashboard interface.
 ```
 
----
-
-## 🛍️ Elefthrift Landing Page
+### 🛍️ Elefthrift Landing Page
 
 ```txt
-Modern responsive landing page
-focused on clean UI/UX experience.
+Modern responsive landing page focused on
+clean UI/UX experience.
 ```
 
 ---
 
-# 🧠 Current Focus
+## 🧠 Current Focus
 
 ```bash
 [+] Backend Architecture
@@ -113,7 +107,7 @@ focused on clean UI/UX experience.
 
 ---
 
-# ⚙️ Developer Environment
+## ⚙️ Developer Environment
 
 ```yaml
 OS: Ubuntu Linux
@@ -126,7 +120,7 @@ Version Control: Git & GitHub
 
 ---
 
-# 🌐 Connect
+## 🌐 Connect
 
 <p align="left">
   <a href="https://github.com/muadzie">
@@ -144,7 +138,7 @@ Version Control: Git & GitHub
 
 ---
 
-# 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/muadzie/muadzie/output/github-contribution-grid-snake.svg"/>
