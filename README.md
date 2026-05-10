@@ -1,50 +1,53 @@
-<h1 align="center">Ilham Muadz Fakhrizi</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Ilham%20Muadz%20Fakhrizi&fontColor=ffffff&fontSize=40&fontAlignY=38&animation=fadeIn"/>
+</p>
+
+<h1 align="center">Full Stack Developer • Backend Engineer • Linux Enthusiast</h1>
 
 <p align="center">
-  Full Stack Developer • Backend Engineer • Linux Enthusiast
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Focused+on+Backend+Architecture;Laravel+•+PHP+•+JavaScript+•+Linux;Clean+Code+and+Scalable+Systems" />
 </p>
 
 <p align="center">
   <a href="https://github.com/muadzie">
-    <img src="https://img.shields.io/github/followers/muadzie?style=flat-square&color=3b82f6"/>
+    <img src="https://img.shields.io/github/followers/muadzie?style=for-the-badge&logo=github&color=111827"/>
   </a>
 
-  <img src="https://img.shields.io/github/stars/muadzie?style=flat-square&color=3b82f6"/>
+  <img src="https://img.shields.io/github/stars/muadzie?style=for-the-badge&logo=github&color=1e293b"/>
 
-  <img src="https://img.shields.io/badge/Focused_on-Clean_Architecture-111827?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-2563eb?style=for-the-badge"/>
 </p>
 
 ---
 
-## `$ whoami`
+# 👨‍💻 About Me
 
 ```bash
 Name        : Ilham Muadz Fakhrizi
 Role        : Full Stack Web Developer
-Speciality  : Backend Development & System Design
+Focus       : Backend Development & System Design
 Stack       : Laravel, PHP, JavaScript, MySQL
-OS          : Linux
-Editor      : VS Code
+Environment : Linux
 ```
 
-I build scalable web applications, backend systems, and modern dashboards with a focus on clean architecture, maintainable code, and performance optimization.
+I specialize in developing scalable web applications, backend systems, and modern dashboards with a focus on performance, maintainability, and clean architecture.
 
 ---
 
-## `Tech Stack`
+# ⚡ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,mysql,html,css,tailwind,bootstrap,git,github,linux,bash,vscode,figma" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,mysql,html,css,tailwind,bootstrap,git,github,linux,bash,vscode,figma&perline=8" />
 </p>
 
 ---
 
-## `GitHub Stats`
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -53,46 +56,60 @@ I build scalable web applications, backend systems, and modern dashboards with a
 
 ---
 
-## `Current Focus`
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Monitoring PKL System
+Internship monitoring and management system for students and lecturers.
+
+</td>
+
+<td width="50%">
+
+### 🧾 Digital Certificate Blockchain
+Blockchain-based digital certificate verification platform.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 👟 Laundry Management System
+Modern management system with responsive dashboard interface.
+
+</td>
+
+<td width="50%">
+
+### 🛍️ Elefthrift Landing Page
+Modern fashion landing page with premium responsive UI.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Current Focus
 
 ```txt
-- REST API Development
-- Backend Architecture
-- Linux Server Management
-- Authentication & Security
-- Database Optimization
-- Dashboard Systems
+✔ REST API Development
+✔ Backend Architecture
+✔ Linux Server Administration
+✔ Authentication & Security
+✔ Database Optimization
+✔ UI/UX Improvement
 ```
 
 ---
 
-## `Projects`
+# 🌐 Connect
 
-| Project | Tech |
-|----------|------|
-| Monitoring PKL System | Laravel, MySQL, Bootstrap |
-| Blockchain Digital Certificate | Laravel, Blockchain |
-| Laundry Management System | PHP, JavaScript |
-| Elefthrift Landing Page | HTML, TailwindCSS |
-
----
-
-## `Development Environment`
-
-```yaml
-OS: Linux Ubuntu
-Terminal: Bash
-Version Control: Git & GitHub
-Framework: Laravel
-Database: MySQL
-Design Tools: Figma
-```
-
----
-
-## `Connect`
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/muadzie">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -108,18 +125,27 @@ Design Tools: Figma
 
 ---
 
-## `Contribution Activity`
+# 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muadzie/muadzie/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/muadzie/muadzie/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ---
 
-```cpp
-while(alive) {
-    learn();
-    build();
-    improve();
-}
+# ⚙️ Development Environment
+
+```yaml
+OS: Ubuntu Linux
+Editor: Visual Studio Code
+Terminal: Bash
+Framework: Laravel
+Database: MySQL
+Version Control: Git & GitHub
 ```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:2563eb"/>
+</p>
