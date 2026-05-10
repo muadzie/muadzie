@@ -47,7 +47,7 @@ currently_learning:
 
 </td>
 <td>
-  <img width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+ <img width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 </td>
 </tr>
 </table>
