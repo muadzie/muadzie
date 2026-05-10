@@ -1,124 +1,195 @@
-<h1 align="center">Ilham Muadz Fakhrizi</h1>
+# Ilham Muadz Fakhrizi
 
-<p align="center">
-  Full Stack Developer • Backend Engineer • Linux Enthusiast
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Backend+Development+and+System+Architecture;Laravel+•+PHP+•+JavaScript+•+Linux;Clean+Code+and+Maintainable+Systems" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/muadzie">
-    <img src="https://img.shields.io/github/followers/muadzie?style=for-the-badge&logo=github&color=111827"/>
-  </a>
-
-  <img src="https://img.shields.io/github/stars/muadzie?style=for-the-badge&logo=github&color=1e293b"/>
-
-  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-2563eb?style=for-the-badge"/>
-</p>
-
----
-
-## 👨‍💻 About Me
+### Full Stack Developer • Backend Engineer • Linux Enthusiast
 
 ```bash
+$ whoami
+
 Name        : Ilham Muadz Fakhrizi
 Role        : Full Stack Web Developer
-Speciality  : Backend Development & Dashboard Systems
-Tech Stack  : Laravel, PHP, JavaScript, MySQL
+Focus       : Backend Development & System Architecture
 Environment : Linux
+Tech Stack  : Laravel, PHP, JavaScript, MySQL
 ```
 
-I develop modern web applications with a strong focus on backend systems, clean architecture, API integration, and scalable application design.
-
 ---
 
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,mysql,html,css,tailwind,bootstrap,git,github,linux,bash,vscode,figma&perline=8" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=github_dark&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muadzie&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| Monitoring PKL System | Internship monitoring and management platform |
-| Digital Certificate Blockchain | Blockchain-based certificate verification system |
-| Laundry Management System | Responsive laundry management application |
-| Elefthrift Landing Page | Modern responsive fashion landing page |
-
----
-
-## 🧠 Current Focus
+# 👨‍💻 About Me
 
 ```txt
-• REST API Development
-• Backend Architecture
-• Linux Server Administration
-• Database Optimization
-• Authentication & Security
-• Clean Code Practices
+I build modern web applications with a focus on:
+• Clean architecture
+• Backend scalability
+• REST API development
+• Dashboard systems
+• Performance optimization
+• Maintainable codebase
+```
+
+```php
+public function lifeCycle()
+{
+    while ($alive) {
+        $this->learn();
+        $this->build();
+        $this->improve();
+    }
+}
 ```
 
 ---
 
-## 🌐 Connect
+# ⚡ Tech Stack
 
-<p align="center">
-  <a href="https://github.com/muadzie">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+## Backend
 
-  <a href="https://instagram.com/USERNAME_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+```txt
+Laravel
+PHP
+REST API
+Node.js
+Authentication System
+Database Design
+```
 
-  <a href="mailto:email@example.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## Frontend
 
----
+```txt
+HTML5
+CSS3
+JavaScript
+TailwindCSS
+Bootstrap
+Responsive UI
+```
 
-## 🐍 Contribution Activity
+## Database
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muadzie/muadzie/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+```txt
+MySQL
+Database Optimization
+Relational Database Design
+Query Performance
+```
 
----
-
-## ⚙️ Development Environment
+## Development Environment
 
 ```yaml
 OS: Ubuntu Linux
-Editor: Visual Studio Code
 Terminal: Bash
-Framework: Laravel
-Database: MySQL
+Editor: VS Code
 Version Control: Git & GitHub
+Design Tools: Figma
 ```
 
 ---
 
-<p align="center">
-  <sub>“Build scalable systems with clean architecture.”</sub>
-</p>
+# 🚀 Featured Projects
+
+## 📊 Monitoring PKL System
+
+```txt
+Internship monitoring platform for students and lecturers
+Built with Laravel and MySQL
+Includes dashboard, reporting, and management system
+```
+
+---
+
+## 🧾 Blockchain Digital Certificate
+
+```txt
+Blockchain-based digital certificate verification system
+Focused on security and validation
+Built for modern academic environments
+```
+
+---
+
+## 👟 Laundry Management System
+
+```txt
+Responsive laundry management application
+Dashboard and transaction system
+Modern UI and management workflow
+```
+
+---
+
+## 🛍️ Elefthrift Landing Page
+
+```txt
+Modern responsive fashion landing page
+Clean UI/UX and optimized layout
+Built with responsive frontend technologies
+```
+
+---
+
+# 🧠 Current Focus
+
+```txt
+✔ Backend Architecture
+✔ REST API Development
+✔ Linux Server Administration
+✔ Authentication & Security
+✔ Database Optimization
+✔ Clean Code Principles
+✔ System Scalability
+```
+
+---
+
+# 📚 Currently Exploring
+
+```js
+const learning = [
+  "Clean Architecture",
+  "System Design",
+  "Linux Server",
+  "API Security",
+  "Performance Optimization",
+  "Scalable Applications"
+];
+```
+
+---
+
+# 🌐 Connect
+
+```txt
+GitHub    : github.com/muadzie
+Instagram : instagram.com/USERNAME_INSTAGRAM
+Email     : email@example.com
+```
+
+---
+
+# ⚙️ Developer Mindset
+
+```txt
+> Write clean code
+> Build scalable systems
+> Keep learning
+> Solve real problems
+```
+
+---
+
+# 🖥️ Terminal Status
+
+```bash
+Status      : Online
+Coding Mode : Active
+Coffee      : Required
+Errors      : Fixing...
+```
+
+---
+
+# 📌 Philosophy
+
+```txt
+"Good code is not just working code.
+Good code is readable, scalable, and maintainable."
+```
