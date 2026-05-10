@@ -46,8 +46,30 @@ currently_learning:
 <img width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 </td>
-<td>
- <img width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+## 👨‍💻 About Me
+
+```yaml
+name: Ilham Muadz Fakhrizi
+role: Full Stack Developer
+
+specialization:
+  - Backend Development
+  - REST API Development
+  - Dashboard Systems
+  - System Architecture
+
+environment:
+  - Ubuntu Linux
+  - Bash
+  - Visual Studio Code
+
+currently_learning:
+  - Clean Architecture
+  - Linux Server Administration
+  - Security Practices
+  - Database Optimization
+```
+
 </td>
 </tr>
 </table>
