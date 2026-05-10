@@ -5,8 +5,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Backend+Architecture+%26+REST+API;Laravel+•+PHP+•+JavaScript+•+Linux;Clean+Code+and+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Backend+Architecture+and+REST+API;Laravel+•+PHP+•+JavaScript+•+Linux;Clean+Code+and+Scalable+Systems"/>
 </p>
+
 
 ---
 
@@ -61,9 +62,9 @@ currently_learning:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
