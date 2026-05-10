@@ -1,47 +1,54 @@
-# Ilham Muadz Fakhrizi
-
-### Full Stack Developer • Backend Engineer • Linux Enthusiast
+# 0xILHAM
 
 ```bash
-$ whoami
-
-Name        : Ilham Muadz Fakhrizi
-Role        : Full Stack Web Developer
-Focus       : Backend Development & System Architecture
-Environment : Linux
-Tech Stack  : Laravel, PHP, JavaScript, MySQL
+> Full Stack Developer
+> Backend Engineer
+> Linux Enthusiast
+> Security & System Architecture Learner
 ```
 
 ---
 
-# 👨‍💻 About Me
+## `$ whoami`
+
+```yaml
+name: Ilham Muadz Fakhrizi
+role: Full Stack Developer
+speciality:
+  - Backend Development
+  - REST API
+  - Dashboard Systems
+  - System Architecture
+
+environment:
+  - Linux
+  - Bash
+  - VS Code
+
+stack:
+  - Laravel
+  - PHP
+  - JavaScript
+  - MySQL
+```
+
+---
+
+## `~/about`
 
 ```txt
-I build modern web applications with a focus on:
-• Clean architecture
-• Backend scalability
-• REST API development
-• Dashboard systems
-• Performance optimization
-• Maintainable codebase
-```
+Passionate about building scalable backend systems,
+modern web applications, and efficient developer workflows.
 
-```php
-public function lifeCycle()
-{
-    while ($alive) {
-        $this->learn();
-        $this->build();
-        $this->improve();
-    }
-}
+Focused on clean architecture, system performance,
+security practices, and maintainable codebases.
 ```
 
 ---
 
-# ⚡ Tech Stack
+## `~/tech-stack`
 
-## Backend
+### Backend
 
 ```txt
 Laravel
@@ -49,10 +56,10 @@ PHP
 REST API
 Node.js
 Authentication System
-Database Design
+Role Permission System
 ```
 
-## Frontend
+### Frontend
 
 ```txt
 HTML5
@@ -60,102 +67,107 @@ CSS3
 JavaScript
 TailwindCSS
 Bootstrap
-Responsive UI
+Responsive Interface
 ```
 
-## Database
+### Database
 
-```txt
+```sql
 MySQL
-Database Optimization
 Relational Database Design
-Query Performance
+Query Optimization
+Database Architecture
 ```
 
-## Development Environment
+### Environment
 
-```yaml
-OS: Ubuntu Linux
-Terminal: Bash
-Editor: VS Code
-Version Control: Git & GitHub
-Design Tools: Figma
+```bash
+OS        : Ubuntu Linux
+Terminal  : Bash
+Editor    : Visual Studio Code
+VCS       : Git & GitHub
 ```
 
 ---
 
-# 🚀 Featured Projects
-
-## 📊 Monitoring PKL System
+## `~/current-focus`
 
 ```txt
-Internship monitoring platform for students and lecturers
-Built with Laravel and MySQL
-Includes dashboard, reporting, and management system
+[+] Backend Architecture
+[+] Linux Server Administration
+[+] REST API Development
+[+] Authentication & Security
+[+] Clean Code Practices
+[+] Database Optimization
+[+] Scalable System Design
 ```
 
 ---
 
-## 🧾 Blockchain Digital Certificate
+## `~/projects`
+
+### Monitoring PKL System
 
 ```txt
-Blockchain-based digital certificate verification system
-Focused on security and validation
-Built for modern academic environments
+Internship monitoring platform with dashboard,
+reporting system, and role-based management.
 ```
 
----
-
-## 👟 Laundry Management System
+### Blockchain Digital Certificate
 
 ```txt
-Responsive laundry management application
-Dashboard and transaction system
-Modern UI and management workflow
+Blockchain-based academic certificate
+verification and validation platform.
 ```
 
----
-
-## 🛍️ Elefthrift Landing Page
+### Laundry Management System
 
 ```txt
-Modern responsive fashion landing page
-Clean UI/UX and optimized layout
-Built with responsive frontend technologies
+Responsive management application with
+transaction and monitoring features.
 ```
 
----
-
-# 🧠 Current Focus
+### Elefthrift Landing Page
 
 ```txt
-✔ Backend Architecture
-✔ REST API Development
-✔ Linux Server Administration
-✔ Authentication & Security
-✔ Database Optimization
-✔ Clean Code Principles
-✔ System Scalability
+Modern fashion landing page focused on
+clean UI and responsive experience.
 ```
 
 ---
 
-# 📚 Currently Exploring
+## `~/developer-mode`
 
-```js
-const learning = [
-  "Clean Architecture",
-  "System Design",
-  "Linux Server",
-  "API Security",
-  "Performance Optimization",
-  "Scalable Applications"
-];
+```python
+class Developer:
+
+    def __init__(self):
+        self.name = "Ilham Muadz Fakhrizi"
+        self.mode = "building"
+
+    def daily_routine(self):
+        while True:
+            self.learn()
+            self.code()
+            self.debug()
+            self.improve()
 ```
 
 ---
 
-# 🌐 Connect
+## `~/linux-status`
+
+```bash
+OS            : Ubuntu Linux
+Kernel         : Stable
+Terminal       : Active
+Server Mode    : Running
+Learning State : Continuous
+```
+
+---
+
+## `~/connect`
 
 ```txt
 GitHub    : github.com/muadzie
@@ -165,31 +177,22 @@ Email     : email@example.com
 
 ---
 
-# ⚙️ Developer Mindset
+## `~/philosophy`
 
 ```txt
-> Write clean code
-> Build scalable systems
-> Keep learning
-> Solve real problems
+"Code should be clean.
+Systems should be scalable.
+Security should never be optional."
 ```
 
 ---
 
-# 🖥️ Terminal Status
+## `~/system-log`
 
 ```bash
-Status      : Online
-Coding Mode : Active
-Coffee      : Required
-Errors      : Fixing...
-```
-
----
-
-# 📌 Philosophy
-
-```txt
-"Good code is not just working code.
-Good code is readable, scalable, and maintainable."
+[STATUS] Initializing developer environment...
+[OK] Linux environment loaded
+[OK] Backend services running
+[OK] Database connected
+[OK] Developer mode enabled
 ```
