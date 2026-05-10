@@ -1,198 +1,128 @@
-# 0xILHAM
+# Ilham Muadz Fakhrizi
 
-```bash
-> Full Stack Developer
-> Backend Engineer
-> Linux Enthusiast
-> Security & System Architecture Learner
+```txt
+Full Stack Developer • Backend Engineer • Linux Enthusiast
 ```
 
 ---
 
-## `$ whoami`
+## About Me
 
 ```yaml
 name: Ilham Muadz Fakhrizi
 role: Full Stack Developer
-speciality:
+
+focus:
   - Backend Development
   - REST API
   - Dashboard Systems
   - System Architecture
 
-environment:
-  - Linux
-  - Bash
-  - VS Code
-
-stack:
-  - Laravel
-  - PHP
-  - JavaScript
-  - MySQL
+currently_learning:
+  - Clean Architecture
+  - Linux Server
+  - Security Practices
+  - Database Optimization
 ```
 
 ---
 
-## `~/about`
-
-```txt
-Passionate about building scalable backend systems,
-modern web applications, and efficient developer workflows.
-
-Focused on clean architecture, system performance,
-security practices, and maintainable codebases.
-```
-
----
-
-## `~/tech-stack`
+## Tech Stack
 
 ### Backend
 
 ```txt
 Laravel
 PHP
-REST API
 Node.js
-Authentication System
-Role Permission System
+REST API
 ```
 
 ### Frontend
 
 ```txt
+JavaScript
 HTML5
 CSS3
-JavaScript
 TailwindCSS
 Bootstrap
-Responsive Interface
 ```
 
 ### Database
 
-```sql
+```txt
 MySQL
-Relational Database Design
+Database Design
 Query Optimization
-Database Architecture
 ```
 
 ### Environment
 
 ```bash
 OS        : Ubuntu Linux
+Editor    : VS Code
 Terminal  : Bash
-Editor    : Visual Studio Code
-VCS       : Git & GitHub
+Version   : Git & GitHub
 ```
 
 ---
 
-## `~/current-focus`
-
-```txt
-[+] Backend Architecture
-[+] Linux Server Administration
-[+] REST API Development
-[+] Authentication & Security
-[+] Clean Code Practices
-[+] Database Optimization
-[+] Scalable System Design
-```
-
----
-
-## `~/projects`
+## Projects
 
 ### Monitoring PKL System
 
 ```txt
-Internship monitoring platform with dashboard,
-reporting system, and role-based management.
+Internship monitoring and management platform
+built with Laravel and MySQL.
 ```
 
-### Blockchain Digital Certificate
+### Digital Certificate Blockchain
 
 ```txt
-Blockchain-based academic certificate
-verification and validation platform.
+Blockchain-based certificate verification system
+for academic environments.
 ```
 
 ### Laundry Management System
 
 ```txt
-Responsive management application with
-transaction and monitoring features.
+Responsive web-based laundry management system.
 ```
 
 ### Elefthrift Landing Page
 
 ```txt
-Modern fashion landing page focused on
-clean UI and responsive experience.
+Modern responsive landing page with clean UI design.
 ```
 
 ---
 
-## `~/developer-mode`
+## Current Focus
 
-```python
-class Developer:
-
-    def __init__(self):
-        self.name = "Ilham Muadz Fakhrizi"
-        self.mode = "building"
-
-    def daily_routine(self):
-        while True:
-            self.learn()
-            self.code()
-            self.debug()
-            self.improve()
+```txt
+[+] Backend Architecture
+[+] REST API Development
+[+] Authentication & Security
+[+] Linux Administration
+[+] Clean Code Practices
 ```
 
 ---
 
-## `~/linux-status`
+## Developer Philosophy
 
-```bash
-OS            : Ubuntu Linux
-Kernel         : Stable
-Terminal       : Active
-Server Mode    : Running
-Learning State : Continuous
+```txt
+Build clean.
+Build scalable.
+Keep learning.
 ```
 
 ---
 
-## `~/connect`
+## Connect
 
 ```txt
 GitHub    : github.com/muadzie
 Instagram : instagram.com/USERNAME_INSTAGRAM
 Email     : email@example.com
-```
-
----
-
-## `~/philosophy`
-
-```txt
-"Code should be clean.
-Systems should be scalable.
-Security should never be optional."
-```
-
----
-
-## `~/system-log`
-
-```bash
-[STATUS] Initializing developer environment...
-[OK] Linux environment loaded
-[OK] Backend services running
-[OK] Database connected
-[OK] Developer mode enabled
 ```
