@@ -40,7 +40,7 @@ currently_learning:
   - Database Optimization
 ```
 
-<br clear="right"/> <br clear="bottom"/>
+
 
 ---
 
