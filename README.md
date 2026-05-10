@@ -1,128 +1,157 @@
-# Ilham Muadz Fakhrizi
+<div align="center">
 
-```txt
-Full Stack Developer • Backend Engineer • Linux Enthusiast
+# `ILHAM MUADZ FAKHRIZI`
+
+### FULL STACK DEVELOPER • BACKEND ENGINEER • LINUX USER
+
+<br>
+
+```bash
+> Building scalable systems
+> Writing clean and maintainable code
+> Exploring backend architecture & security
 ```
+
+<br>
+
+</div>
 
 ---
 
-## About Me
+# `SYSTEM.INFO`
 
 ```yaml
 name: Ilham Muadz Fakhrizi
 role: Full Stack Developer
-
-focus:
+specialization:
   - Backend Development
   - REST API
   - Dashboard Systems
   - System Architecture
 
-currently_learning:
-  - Clean Architecture
-  - Linux Server
-  - Security Practices
-  - Database Optimization
+environment:
+  os: Ubuntu Linux
+  terminal: Bash
+  editor: VS Code
+
+status: Active
 ```
 
 ---
 
-## Tech Stack
+# `TECH.STACK`
 
-### Backend
+<div align="center">
 
-```txt
-Laravel
-PHP
-Node.js
-REST API
-```
+| Backend | Frontend | Database | Environment |
+|----------|-----------|-----------|--------------|
+| Laravel | JavaScript | MySQL | Linux |
+| PHP | HTML5 | Database Design | Bash |
+| REST API | CSS3 | Query Optimization | Git |
+| Node.js | TailwindCSS | Authentication | GitHub |
 
-### Frontend
+</div>
 
-```txt
-JavaScript
-HTML5
-CSS3
-TailwindCSS
-Bootstrap
-```
+---
 
-### Database
+# `CURRENT.FOCUS`
 
 ```txt
-MySQL
-Database Design
-Query Optimization
+[✓] Backend Architecture
+[✓] REST API Development
+[✓] Authentication & Security
+[✓] Linux Server Administration
+[✓] Database Optimization
+[✓] Clean Code Principles
 ```
 
-### Environment
+---
+
+# `FEATURED.PROJECTS`
+
+## 📊 Monitoring PKL System
+
+```txt
+Internship monitoring platform with dashboard,
+reporting system, and role management features.
+```
+
+---
+
+## 🧾 Digital Certificate Blockchain
+
+```txt
+Blockchain-based digital certificate
+verification and validation system.
+```
+
+---
+
+## 👟 Laundry Management System
+
+```txt
+Responsive management system with
+transaction and monitoring dashboard.
+```
+
+---
+
+## 🛍️ Elefthrift Landing Page
+
+```txt
+Modern responsive landing page
+focused on clean UI and user experience.
+```
+
+---
+
+# `DEVELOPER.MODE`
+
+```python
+class Developer:
+
+    def __init__(self):
+        self.name = "Ilham"
+        self.mode = "active"
+
+    def execute(self):
+        while True:
+            self.learn()
+            self.build()
+            self.optimize()
+            self.repeat()
+```
+
+---
+
+# `TERMINAL.STATUS`
 
 ```bash
-OS        : Ubuntu Linux
-Editor    : VS Code
-Terminal  : Bash
-Version   : Git & GitHub
+[ SYSTEM ] Ubuntu Linux Running
+[ SERVER ] Stable
+[ API    ] Connected
+[ STATUS ] Developer Mode Enabled
+[ TARGET ] Build Better Systems
 ```
 
 ---
 
-## Projects
-
-### Monitoring PKL System
-
-```txt
-Internship monitoring and management platform
-built with Laravel and MySQL.
-```
-
-### Digital Certificate Blockchain
-
-```txt
-Blockchain-based certificate verification system
-for academic environments.
-```
-
-### Laundry Management System
-
-```txt
-Responsive web-based laundry management system.
-```
-
-### Elefthrift Landing Page
-
-```txt
-Modern responsive landing page with clean UI design.
-```
-
----
-
-## Current Focus
-
-```txt
-[+] Backend Architecture
-[+] REST API Development
-[+] Authentication & Security
-[+] Linux Administration
-[+] Clean Code Practices
-```
-
----
-
-## Developer Philosophy
-
-```txt
-Build clean.
-Build scalable.
-Keep learning.
-```
-
----
-
-## Connect
+# `CONNECT`
 
 ```txt
 GitHub    : github.com/muadzie
 Instagram : instagram.com/USERNAME_INSTAGRAM
 Email     : email@example.com
 ```
+
+---
+
+<div align="center">
+
+```txt
+"Build clean systems.
+Think scalable.
+Keep evolving."
+```
+
+</div>
