@@ -1,11 +1,11 @@
+<h1 align="center">Ilham Muadz Fakhrizi</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Ilham%20Muadz%20Fakhrizi&fontColor=ffffff&fontSize=40&fontAlignY=38&animation=fadeIn"/>
+  Full Stack Developer • Backend Engineer • Linux Enthusiast
 </p>
 
-<h1 align="center">Full Stack Developer • Backend Engineer • Linux Enthusiast</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Focused+on+Backend+Architecture;Laravel+•+PHP+•+JavaScript+•+Linux;Clean+Code+and+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Backend+Development+and+System+Architecture;Laravel+•+PHP+•+JavaScript+•+Linux;Clean+Code+and+Maintainable+Systems" />
 </p>
 
 <p align="center">
@@ -15,26 +15,26 @@
 
   <img src="https://img.shields.io/github/stars/muadzie?style=for-the-badge&logo=github&color=1e293b"/>
 
-  <img src="https://img.shields.io/badge/Clean%20Architecture-2563eb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-2563eb?style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```bash
 Name        : Ilham Muadz Fakhrizi
 Role        : Full Stack Web Developer
-Focus       : Backend Development & System Design
-Stack       : Laravel, PHP, JavaScript, MySQL
+Speciality  : Backend Development & Dashboard Systems
+Tech Stack  : Laravel, PHP, JavaScript, MySQL
 Environment : Linux
 ```
 
-I specialize in developing scalable web applications, backend systems, and modern dashboards with a focus on performance, maintainability, and clean architecture.
+I develop modern web applications with a strong focus on backend systems, clean architecture, API integration, and scalable application design.
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,mysql,html,css,tailwind,bootstrap,git,github,linux,bash,vscode,figma&perline=8" />
@@ -42,72 +42,45 @@ I specialize in developing scalable web applications, backend systems, and moder
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=github_dark&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muadzie&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=muadzie&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 📊 Monitoring PKL System
-Internship monitoring and management system for students and lecturers.
-
-</td>
-
-<td width="50%">
-
-### 🧾 Digital Certificate Blockchain
-Blockchain-based digital certificate verification platform.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 👟 Laundry Management System
-Modern management system with responsive dashboard interface.
-
-</td>
-
-<td width="50%">
-
-### 🛍️ Elefthrift Landing Page
-Modern fashion landing page with premium responsive UI.
-
-</td>
-</tr>
-</table>
+| Project | Description |
+|----------|-------------|
+| Monitoring PKL System | Internship monitoring and management platform |
+| Digital Certificate Blockchain | Blockchain-based certificate verification system |
+| Laundry Management System | Responsive laundry management application |
+| Elefthrift Landing Page | Modern responsive fashion landing page |
 
 ---
 
-# 🧠 Current Focus
+## 🧠 Current Focus
 
 ```txt
-✔ REST API Development
-✔ Backend Architecture
-✔ Linux Server Administration
-✔ Authentication & Security
-✔ Database Optimization
-✔ UI/UX Improvement
+• REST API Development
+• Backend Architecture
+• Linux Server Administration
+• Database Optimization
+• Authentication & Security
+• Clean Code Practices
 ```
 
 ---
 
-# 🌐 Connect
+## 🌐 Connect
 
 <p align="center">
   <a href="https://github.com/muadzie">
@@ -125,15 +98,15 @@ Modern fashion landing page with premium responsive UI.
 
 ---
 
-# 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muadzie/muadzie/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/muadzie/muadzie/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-# ⚙️ Development Environment
+## ⚙️ Development Environment
 
 ```yaml
 OS: Ubuntu Linux
@@ -147,5 +120,5 @@ Version Control: Git & GitHub
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:2563eb"/>
+  <sub>“Build scalable systems with clean architecture.”</sub>
 </p>
