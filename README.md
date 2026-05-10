@@ -10,13 +10,11 @@
 
 ---
 
-<img align="right" alt="Developer" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## 👨‍💻 About Me
-
-
-
-
 
 ```yaml
 name: Ilham Muadz Fakhrizi
@@ -40,7 +38,15 @@ currently_learning:
   - Database Optimization
 ```
 
+</td>
 
+<td width="40%" align="center">
+
+<img width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
