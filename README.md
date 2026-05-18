@@ -140,7 +140,8 @@ I'm currently expanding my skills in **Clean Architecture, Microservices, DevOps
 
 ### 🔥 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=donut&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages"/>
+<img  width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"  alt="Top Languages"/>
 
 </td>
 </tr>
