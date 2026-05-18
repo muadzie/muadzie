@@ -1,4 +1,3 @@
-```markdown
 # Hi 👋, I'm Ilham Muadz Fakhrizi
 
 <h3 align="center">
@@ -11,21 +10,17 @@
 
 ---
 
+## 👨‍💻 About Me
+
 <table>
 <tr>
-<td width="60%" valign="top">
-
-## About Me
+<td width="60%">
 
 ```yaml
 name: Ilham Muadz Fakhrizi
 title: Full Stack Developer
-company: Open to Opportunities
 location: Indonesia
-
-education:
-  degree: Computer Science / Information Technology
-  focus: Software Engineering & Web Development
+education: Computer Science / Information Technology
 
 specialization:
   - Backend Development & REST API Design
@@ -33,31 +28,19 @@ specialization:
   - Database Architecture & Optimization
   - System Security & Authentication
   - Linux Server Administration
-  - Full Stack Web Application Development
 
-professional_skills:
-  languages: [PHP, JavaScript, SQL, HTML/CSS, Bash]
-  frameworks: [Laravel, Node.js, Tailwind CSS, Bootstrap]
-  databases: [MySQL, PostgreSQL, Redis]
-  tools: [Git, Docker, Postman, Composer, NPM]
-  platforms: [Linux/Ubuntu, GitHub, cPanel, VPS]
-  concepts: [MVC, RESTful API, OOP, MVC, Agile, CI/CD]
-
-soft_skills:
-  - Problem Solving & Critical Thinking
-  - Team Collaboration & Communication
-  - Project Management & Time Management
-  - Technical Documentation
-  - Continuous Learning & Adaptability
+languages: [PHP, JavaScript, SQL, HTML/CSS, Bash]
+frameworks: [Laravel, Node.js, Tailwind CSS, Bootstrap]
+databases: [MySQL, PostgreSQL, Redis]
+tools: [Git, Docker, Postman, Composer, NPM]
+platforms: [Linux/Ubuntu, GitHub, VPS, cPanel]
 
 currently_learning:
   - Clean Architecture & Design Patterns
   - Microservices Architecture
   - DevOps & CI/CD Pipelines
   - Cloud Computing (AWS/GCP)
-  - Advanced Security Practices
   - Test-Driven Development (TDD)
-  - GraphQL API Development
 
 interests:
   - Open Source Contributions
@@ -69,9 +52,9 @@ interests:
 </td>
 <td width="40%" align="center">
 
-<img width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Animation"/>
+<img width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding"/>
 
-<br/><br/>
+<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muadzie&color=3B82F6&style=flat-square)
 
@@ -81,7 +64,7 @@ interests:
 
 ---
 
-## Technologies & Tools
+## ⚡ Tech Stack
 
 ### Languages & Frameworks
 
@@ -109,20 +92,16 @@ interests:
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-**Profile Overview**
-
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </td>
 <td width="50%" align="center">
-
-**Top Languages**
 
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
 
@@ -140,9 +119,9 @@ interests:
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Monitoring PKL System
+### 📊 Monitoring PKL System
 
 > Internship monitoring and management platform for educational institutions
 
@@ -150,7 +129,7 @@ interests:
 - **Features:** Real-time attendance tracking, student reports, supervisor dashboard, automated notifications
 - **Architecture:** MVC Pattern, RESTful API, Role-based Access Control
 
-### Blockchain Digital Certificate
+### 🧾 Blockchain Digital Certificate
 
 > Decentralized certificate verification system for academic credentials
 
@@ -158,7 +137,7 @@ interests:
 - **Features:** Certificate issuance, verification portal, tamper-proof records, QR code generation
 - **Architecture:** Smart Contracts, Web3 Integration, Cryptographic Hashing
 
-### Laundry Management System
+### 👟 Laundry Management System
 
 > Comprehensive laundry business management with modern dashboard
 
@@ -166,7 +145,7 @@ interests:
 - **Features:** Order tracking, payment processing, customer management, analytics dashboard, inventory control
 - **Architecture:** Multi-role authentication, REST API, Responsive Design
 
-### E-Commerce Platform
+### 🛒 E-Commerce Platform
 
 > Full-featured online marketplace with secure payment integration
 
@@ -174,7 +153,7 @@ interests:
 - **Features:** Product catalog, shopping cart, payment gateway, order management, review system
 - **Architecture:** Service Repository Pattern, Payment API Integration, SEO Optimization
 
-### Elefthrift Landing Page
+### 🛍️ Elefthrift Landing Page
 
 > Modern responsive landing page with clean UI/UX design
 
@@ -182,7 +161,7 @@ interests:
 - **Features:** Responsive layout, smooth animations, contact form, performance optimized
 - **Architecture:** Mobile-First Design, Semantic HTML, Accessibility Standards
 
-### REST API Backend Service
+### 🔌 REST API Backend Service
 
 > Scalable API backend with authentication and documentation
 
@@ -192,37 +171,24 @@ interests:
 
 ---
 
-## Open Source Contributions
-
-> I actively contribute to open-source projects and believe in collaborative development.
-
-- Contributing to Laravel ecosystem packages
-- Bug fixes and documentation improvements
-- Participating in hackathons and coding challenges
-- Building developer tools and utilities
-
----
-
-## Current Focus & Goals
+## 🧠 Current Focus
 
 ```bash
-#!/bin/bash
-
-echo "[+] Backend Architecture & Design Patterns"
-echo "[+] RESTful API Development & Documentation"
-echo "[+] Authentication & Security Best Practices"
-echo "[+] Linux Server Administration & DevOps"
-echo "[+] Database Optimization & Query Performance"
-echo "[+] Clean Code & SOLID Principles"
-echo "[+] Microservices & Distributed Systems"
-echo "[+] Cloud Deployment & CI/CD Pipelines"
-echo "[+] Test-Driven Development (TDD)"
-echo "[+] Open Source Contribution & Community"
+[+] Backend Architecture & Design Patterns
+[+] RESTful API Development & Documentation
+[+] Authentication & Security Best Practices
+[+] Linux Server Administration & DevOps
+[+] Database Optimization & Query Performance
+[+] Clean Code & SOLID Principles
+[+] Microservices & Distributed Systems
+[+] Cloud Deployment & CI/CD Pipelines
+[+] Test-Driven Development (TDD)
+[+] Open Source Contribution & Community
 ```
 
 ---
 
-## Work Experience & Projects
+## 💼 Work Experience
 
 ### Backend Developer
 
@@ -248,17 +214,16 @@ echo "[+] Open Source Contribution & Community"
 
 ---
 
-## Certifications & Achievements
+## 🏆 Certifications & Achievements
 
 - Laravel Certification (In Progress)
 - MySQL Database Administration
 - Linux Professional Institute Certification (LPIC-1)
 - Hacktoberfest Contributor 2024-2025
-- [Add your certifications here]
 
 ---
 
-## Blog & Writing
+## 📝 Blog & Writing
 
 > Sharing knowledge through technical articles and tutorials
 
@@ -266,25 +231,21 @@ echo "[+] Open Source Contribution & Community"
 - Building Secure REST APIs with JWT Authentication
 - Database Optimization Techniques for MySQL
 - Linux Commands Every Developer Should Know
-- [Add your blog links here]
 
 ---
 
-## Developer Setup
+## 🖥️ Developer Environment
 
 ```yaml
-hardware:
-  laptop: ThinkPad / ASUS ROG
-  ram: 16GB DDR4
-  storage: 512GB NVMe SSD
+OS: Ubuntu 22.04 LTS / Windows 11 WSL2
+Editor: Visual Studio Code
+Terminal: Bash / Zsh
+Framework: Laravel
+Database: MySQL
+Version Control: Git & GitHub
+Browser: Firefox Developer Edition
 
-software:
-  os: Ubuntu 22.04 LTS / Windows 11 WSL2
-  editor: Visual Studio Code
-  terminal: Bash / Zsh
-  browser: Firefox Developer Edition
-
-editor_extensions:
+extensions:
   - Laravel Extension Pack
   - PHP Intelephense
   - ESLint & Prettier
@@ -295,15 +256,13 @@ editor_extensions:
 cli_tools:
   - Oh My Zsh
   - Tmux
-  - Neovim
   - Lazygit
   - FZF
-  - Ranger
 ```
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://github.com/muadzie" target="_blank">
@@ -318,35 +277,26 @@ cli_tools:
   <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://dev.to/YOUR_DEVTO" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-## GitHub Activity
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muadzie/muadzie/output/github-contribution-grid-snake.svg" alt="Contribution Grid"/>
+  <img src="https://raw.githubusercontent.com/muadzie/muadzie/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## Support My Work
+## ☕ Support My Work
 
 <p align="center">
-  <a href="https://github.com/sponsors/muadzie">
-    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"/>
-  </a>
-  <a href="https://ko-fi.com/YOUR_KOFI">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-  </a>
-  <a href="https://trakteer.id/YOUR_TRAKTEER">
+  <a href="https://trakteer.id/YOUR_TRAKTEER" target="_blank">
     <img src="https://img.shields.io/badge/Trakteer-B0342C?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
+  <a href="https://ko-fi.com/YOUR_KOFI" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
   </a>
 </p>
 
@@ -354,32 +304,12 @@ cli_tools:
 
 <div align="center">
 
+```txt
+"Code is like humor. When you have to explain it, it's bad." — Cory House
 ```
-"Code is like humor. When you have to explain it, it's bad."
-                                          — Cory House
-```
-
-[![Quote](https://img.shields.io/badge/Quote-Software%20Craftsmanship-blue?style=for-the-badge)](https://github.com/muadzie)
-
----
 
 **Thanks for visiting my profile! Feel free to explore my repositories and connect.**
 
 ![Visitor Count](https://profile-counter.glitch.me/muadzie/count.svg)
 
 </div>
-```
-
----
-
-File sudah siap! Copy seluruh konten di dalam blok ```markdown ... ``` dan paste ke file README.md GitHub profil kamu.
-
-Beberapa hal yang perlu kamu ganti:
-- `YOUR_LINKEDIN` - Username LinkedIn kamu
-- `YOUR_INSTAGRAM` - Username Instagram kamu
-- `YOUR_EMAIL@gmail.com` - Email kamu
-- `YOUR_DEVTO` - Username Dev.to (kalau ada)
-- `YOUR_TWITTER` - Username Twitter/X (kalau ada)
-- `YOUR_KOFI` - Link Ko-fi (kalau ada)
-- `YOUR_TRAKTEER` - Link Trakteer (kalau ada)
-- Section certifications dan blog bisa disesuaikan
