@@ -55,7 +55,7 @@ I'm currently expanding my skills in **Clean Architecture, Microservices, DevOps
 </td>
 <td width="35%" align="center">
 
-<img src="https://github-profile-activity.vercel.app/api/profile-activity?username=muadzie&theme=tokyo-night" alt="GitHub Activity" width="300"/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muadzie&theme=tokyo-night)
 
 <br/><br/>
 
