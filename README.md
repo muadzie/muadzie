@@ -117,31 +117,35 @@ I'm currently expanding my skills in **Clean Architecture, Microservices, DevOps
 
 ---
 
-### Tech Overview
+## 🚀 Tech Overview
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,javascript,typescript,mysql,postgresql,redis,mongodb,tailwind,bootstrap,git,github,docker,linux,bash,vscode,nginx,postman,figma,html,css&perline=12&theme=tokyo"/>
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=php,laravel,nodejs,javascript,typescript,mysql,postgresql,redis,mongodb,tailwind,bootstrap,git,github,docker,linux,bash,vscode,nginx,postman,figma,html,css&perline=12&theme=dark)
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
-<table>
-<tr>
-<td width="50%" align="center">
+## 📈 Profile Stats
 
-### 📈 Profile Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+---
 
-</td>
-<td width="50%" align="center">
+## 🔥 Top Languages
 
-### 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true)
+---
 
+## ⚡ GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=muadzie&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muadzie&theme=tokyo-night&hide_border=true)
 </td>
 </tr>
 </table>
