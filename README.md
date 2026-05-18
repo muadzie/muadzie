@@ -1,39 +1,18 @@
 # Hi 👋, I'm Ilham Muadz Fakhrizi
 
 <p align="center">
-  <a href="https://github.com/muadzie">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Backend+Architecture+and+REST+API+Design;Laravel+•+PHP+•+JavaScript+•+Linux;Clean+Code+and+Scalable+Systems;Securing+Applications+with+Best+Practices"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Backend+Architecture+and+REST+API+Design;Laravel+•+PHP+•+JavaScript+•+Linux;Clean+Code+and+Scalable+Systems;Securing+Applications+with+Best+Practices"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/muadzie">
-    <img src="https://i.ibb.co/Y7k5C6M/coding-banner.gif" alt="Coding Banner" width="600"/>
-  </a>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Animation" width="500"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/muadzie">
-    <img src="https://img.shields.io/badge/👋-Hi%2C%20I'm%20Ilham-blue?style=for-the-badge" alt="Greeting"/>
-  </a>
-  <a href="https://github.com/muadzie">
-    <img src="https://img.shields.io/badge/Full_Stack-Developer-green?style=for-the-badge" alt="Full Stack"/>
-  </a>
-  <a href="https://github.com/muadzie">
-    <img src="https://img.shields.io/badge/Backend-Engineer-orange?style=for-the-badge" alt="Backend"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/muadzie">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=muadzie&color=3B82F6&style=flat-square"/>
-  </a>
-  <a href="https://github.com/muadzie">
-    <img alt="Followers" src="https://img.shields.io/github/followers/muadzie?style=flat-square&label=Followers&color=green"/>
-  </a>
-  <a href="https://github.com/muadzie">
-    <img alt="Stars" src="https://img.shields.io/github/stars/muadzie?style=flat-square&label=Stars&color=yellow"/>
-  </a>
+  <img alt="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=muadzie.muadzie"/>
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/muadzie?style=flat&label=Followers&color=green"/>
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/muadzie?style=flat&label=Total%20Stars&color=yellow"/>
+  <img alt="GitHub Repos" src="https://img.shields.io/github/repo-size/muadzie/muadzie?style=flat&label=Repo%20Size&color=blue"/>
 </p>
 
 ---
@@ -44,17 +23,11 @@
 <tr>
 <td width="65%">
 
-<p>
-  I'm a passionate <b>Full Stack Developer</b> and <b>Backend Engineer</b> from Indonesia with a strong focus on building scalable web applications and RESTful APIs. I specialize in the <b>Laravel ecosystem</b> and have hands-on experience with modern web technologies.
-</p>
+I'm a passionate **Full Stack Developer** and **Backend Engineer** from Indonesia with a strong focus on building scalable web applications and RESTful APIs. I specialize in the **Laravel ecosystem** and have hands-on experience with modern web technologies.
 
-<p>
-  My journey in software development started with a curiosity about how websites work, and it has evolved into a career focused on creating <b>clean, maintainable, and efficient code</b>. I'm deeply interested in system architecture, database optimization, and security best practices.
-</p>
+My journey in software development started with a curiosity about how websites work, and it has evolved into a career focused on creating **clean, maintainable, and efficient code**. I'm deeply interested in system architecture, database optimization, and security best practices.
 
-<p>
-  I'm currently expanding my skills in <b>Clean Architecture, Microservices, DevOps practices</b>, and cloud technologies. I believe in continuous learning and contributing to the developer community through open-source projects.
-</p>
+I'm currently expanding my skills in **Clean Architecture, Microservices, DevOps practices**, and cloud technologies. I believe in continuous learning and contributing to the developer community through open-source projects.
 
 ---
 
@@ -71,14 +44,6 @@
 
 ---
 
-### 🎓 Education
-
-- **Computer Science / Information Technology**
-  - Focus: Software Engineering & Web Development
-  - Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Programming, Software Architecture
-
----
-
 ### 💡 What I Do
 
 - 🔨 **Build** - RESTful APIs, Web Applications, Dashboard Systems
@@ -90,21 +55,13 @@
 </td>
 <td width="35%" align="center">
 
-<img width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Animation"/>
+<img src="https://github-profile-activity.vercel.app/api/profile-activity?username=muadzie&theme=tokyo-night" alt="GitHub Activity" width="300"/>
 
 <br/><br/>
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love"/>
-<br/>
-<img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="Built by developers"/>
-<br/>
-<img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with markdown"/>
-
-<br/><br/>
-
-<a href="https://github.com/muadzie">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muadzie&theme=tokyo-night&hide_border=true&line=3B82F6&point=3B82F6" alt="Activity Graph" width="300"/>
-</a>
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️%20Love-it?style=for-the-badge)
+![Code Quality](https://img.shields.io/badge/Code-Quality-A%2B-brightgreen?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-Active-green?style=for-the-badge)
 
 </td>
 </tr>
@@ -117,76 +74,45 @@
 ### 💻 Programming Languages
 
 <p align="center">
-  <a href="https://www.php.net/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=php" alt="PHP" width="60" height="60"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" alt="JavaScript" width="60" height="60"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" alt="TypeScript" width="60" height="60"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="MySQL" width="60" height="60"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" alt="PostgreSQL" width="60" height="60"/>
-  </a>
-  <a href="https://redis.io/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=redis" alt="Redis" width="60" height="60"/>
-  </a>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 ### 🖥️ Frameworks & Libraries
 
 <p align="center">
-  <a href="https://laravel.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel" alt="Laravel" width="60" height="60"/>
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="Node.js" width="60" height="60"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" alt="Tailwind CSS" width="60" height="60"/>
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" alt="Bootstrap" width="60" height="60"/>
-  </a>
-  <a href="https://html.spec.whatwg.org/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML5" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="CSS3" width="60" height="60"/>
-  </a>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Caching
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools & Platforms
 
 <p align="center">
-  <a href="https://git-scm.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git" width="60" height="60"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="GitHub" width="60" height="60"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="Docker" width="60" height="60"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="Linux" width="60" height="60"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="VS Code" width="60" height="60"/>
-  </a>
-  <a href="https://www.postman.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" alt="Postman" width="60" height="60"/>
-  </a>
-  <a href="https://www.nginx.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" alt="Nginx" width="60" height="60"/>
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" alt="Figma" width="60" height="60"/>
-  </a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
@@ -207,26 +133,30 @@
 
 ### 📈 Profile Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
 </td>
 <td width="50%" align="center">
 
 ### 🔥 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true&count_private=true&title_color=3B82F6" alt="Top Languages" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=donut&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages"/>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muadzie&theme=tokyonight&hide_border=true&currStreakLabel=3B82F6" alt="Streak Stats" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muadzie&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muadzie&theme=tokyonight" alt="Profile Summary" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muadzie&theme=tokyonight" alt="Repos Per Language" width="49%"/>
+  <a href="https://github.com/muadzie">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muadzie&theme=tokyonight" alt="Commit Language" width="49%"/>
+  </a>
+  <a href="https://github.com/muadzie">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muadzie&theme=tokyonight" alt="Productive Time" width="49%"/>
+  </a>
 </p>
 
 ---
@@ -260,7 +190,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square"/>
 </p>
 
 - Certificate issuance and blockchain registration
@@ -279,7 +209,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square"/>
 </p>
 
 - Complete order lifecycle management
@@ -394,22 +324,22 @@
 <table>
 <tr>
 <td align="center">
-  <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="Certification"/>
+  <img src="https://img.shields.io/badge/Laravel-Certification-red?style=for-the-badge"/>
   <br/><b>Laravel Certification</b>
   <br/><small>In Progress</small>
 </td>
 <td align="center">
-  <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="Certification"/>
+  <img src="https://img.shields.io/badge/MySQL-Database_Admin-blue?style=for-the-badge"/>
   <br/><b>MySQL Database Administration</b>
   <br/><small>Oracle Certified</small>
 </td>
 <td align="center">
-  <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="Certification"/>
+  <img src="https://img.shields.io/badge/LPIC--1-Linux_Professional-yellow?style=for-the-badge"/>
   <br/><b>LPIC-1</b>
   <br/><small>Linux Professional Institute</small>
 </td>
 <td align="center">
-  <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="Hacktoberfest"/>
+  <img src="https://img.shields.io/badge/Hacktoberfest-2024_2025-orange?style=for-the-badge"/>
   <br/><b>Hacktoberfest 2024-2025</b>
   <br/><small>Open Source Contributor</small>
 </td>
@@ -518,11 +448,11 @@ Multiplexer: Tmux
 
 <p align="center">
   <img src="https://img.shields.io/badge/Oh_My_Zsh-E95420?style=for-the-badge&logo=zsh&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lazygit-000000?style=for-the-badge&logo=laz-git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lazygit-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FZF-3B82F6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Curl-000000?style=for-the-badge&logo=curl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Curl-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JQ-3B82F6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HTop-009845?style=for-the-badge"/>
 </p>
@@ -574,7 +504,7 @@ Multiplexer: Tmux
 
 <p align="center">
   <a href="https://trakteer.id/YOUR_TRAKTEER" target="_blank">
-    <img src="https://img.shields.io/badge/Trakteer-B0342C?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Trakteer"/>
+    <img src="https://img.shields.io/badge/Trakteer-B0342C?style=for-the-badge&logoColor=white" alt="Trakteer"/>
   </a>
   <a href="https://ko-fi.com/YOUR_KOFI" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
@@ -600,14 +530,10 @@ Multiplexer: Tmux
 "Code is like humor. When you have to explain it, it's bad." — Cory House
 ```
 
-<p>
-  <img src="https://forthebadge.com/images/badges/made-with-code.svg" alt="Made with code"/>
-  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open source"/>
-  <img src="https://forthebadge.com/images/badges/built-with-swag.svg" alt="Built with swag"/>
-</p>
-
 **Thanks for visiting my profile! Feel free to explore my repositories and connect.**
 
-![Visitor Count](https://profile-counter.glitch.me/muadzie/count.svg)
+<img src="https://img.shields.io/badge/Made_With-Code-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_Source-❤️%20Love-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Built_With-Swag-orange?style=for-the-badge"/>
 
 </div>
