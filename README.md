@@ -1,5 +1,3 @@
-# README.md - GitHub Profile
-
 ```markdown
 # Hi 👋, I'm Ilham Muadz Fakhrizi
 
