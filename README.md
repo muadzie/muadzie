@@ -133,15 +133,14 @@ I'm currently expanding my skills in **Clean Architecture, Microservices, DevOps
 
 ### 📈 Profile Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </td>
 <td width="50%" align="center">
 
 ### 🔥 Top Languages
 
-<img  width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"  alt="Top Languages"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true)
 
 </td>
 </tr>
