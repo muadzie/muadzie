@@ -123,46 +123,6 @@ I'm currently expanding my skills in **Clean Architecture, Microservices, DevOps
 
 ---
 
-# 📊 GitHub Statistics
-
-## 📈 Profile Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=muadzie&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-## 🔥 Top Languages
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muadzie&layout=compact&theme=tokyonight&hide_border=true)
----
-
-## ⚡ GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=muadzie&theme=tokyonight&hide_border=true)
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muadzie&theme=tokyo-night&hide_border=true)
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muadzie&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/muadzie">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muadzie&theme=tokyonight" alt="Commit Language" width="49%"/>
-  </a>
-  <a href="https://github.com/muadzie">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muadzie&theme=tokyonight" alt="Productive Time" width="49%"/>
-  </a>
-</p>
-
----
 
 ## 🚀 Featured Projects
 
